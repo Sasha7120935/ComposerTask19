@@ -1,0 +1,13 @@
+{
+    "name": "composerTask19/composerTask19",
+    "description": "last",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "liw\\": ""
+        }
+    }
+}
